@@ -6,7 +6,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 Skills: 
 
-✅ WordPress
+✅ WordPress <br>
 ✅ JavaScript
 ✅ PHP
 ✅ HTML5 / CSS3 / SASS / Bootstrap
